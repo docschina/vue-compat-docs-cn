@@ -1,7 +1,7 @@
 {
   "name": "vue-compat",
   "version": "3.0.0-alpha.1",
-  "description": "vue",
+  "description": "Vue 2.x compat build",
   "main": "index.js",
   "module": "dist/vue.esm-bundler.js",
   "unpkg": "dist/vue.global.js",
